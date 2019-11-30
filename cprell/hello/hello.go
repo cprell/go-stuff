@@ -2,8 +2,7 @@ package main
 
 import (
 	"fmt"
-
-	"github.com/cprell/stringutil"
+	"go-stuff/cprell/stringutil"
 )
 
 func main() {
