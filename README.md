@@ -1,2 +1,1 @@
-# go-stuff
-a-chan geb a ruh
+# let's go.
